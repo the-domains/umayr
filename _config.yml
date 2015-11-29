@@ -1,0 +1,28 @@
+name: umayr
+favicon: null
+layout_spectrum: 0.8275701974052936
+typography_spectrum: 0.22119520814158022
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8763080853968859
+  lightness: 0.02610739879310131
+  saturation: 0.8937675328925252
+  rhythmicContrast: 0.04007045621983707
+purpose: []
